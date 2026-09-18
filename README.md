@@ -19,9 +19,9 @@ Aqui estão as principais tecnologias com as quais venho trabalhando e estudando
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ysa3008&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
+### 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ysa3008&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ---
 
