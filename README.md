@@ -1,6 +1,6 @@
 ## Oi, eu sou a Yslla Gonçalves! 👋
 
-Sou iniciante em tecnologia, atuando como aprendiz na Serasa Experian e em transição para a carreira de desenvolvimento de software. Estou sempre estudando e construindo novos projetos para evoluir na área de front-end.
+Sou formada técnica em Desenvolvimento de Sistemas pelo IFB e atualmente sou graduanda em Sistemas para Internet, atuando também como aprendiz na Serasa Experian. Estou sempre estudando e construindo novos projetos para evoluir na área de front-end.
 
 ---
 
